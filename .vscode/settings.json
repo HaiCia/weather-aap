@@ -1,0 +1,31 @@
+{
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/**": true,
+    "**/web/node_modules": true,
+    "**/web/build": true, // will change frequently by build command
+    "**/admin/node_modules": true
+  },
+
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "prettier.disableLanguages": ["js"],
+  "prettier.eslintIntegration": true,
+  "workbench.colorCustomizations": {
+    "panel.background": "#05315e"
+  }
+}

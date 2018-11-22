@@ -1,0 +1,37 @@
+{
+  "day1": {
+    "title": "Monday",
+    "icon": "https://cdn2.iconfinder.com/data/icons/weather-and-forecast-free/32/Weather_Weather_Forecast_Hot_Sun_Day-512.png",
+    "temperature": "22 - 25℃"
+  },
+  "day2": {
+    "title": "Tuesday",
+    "icon": "https://cdn2.iconfinder.com/data/icons/weather-and-forecast-free/32/Weather_Weather_Forecast_Sunrise_Sunset_Sun-512.png",
+    "temperature": "12 - 16℃"
+  },
+  "day3": {
+    "title": "Wenesday",
+    "icon": "https://cdn2.iconfinder.com/data/icons/weather-and-forecast-free/32/Weather_Weather_Forecast_Sunny_Rain_Climate-512.png",
+    "temperature": "14 - 16℃"
+  },
+  "day4": {
+    "title": "Thursday",
+    "icon": "https://cdn2.iconfinder.com/data/icons/weather-and-forecast-free/32/Weather_Weather_Forecast_Sunrise_Sunset_Sun-512.png",
+    "temperature": "15 - 17℃"
+  },
+  "day5": {
+    "title": "Friday",
+    "icon": "https://cdn2.iconfinder.com/data/icons/weather-and-forecast-free/32/Weather_Weather_Forecast_Lightning_Cloud_Storm-512.png",
+    "temperature": "20 - 25℃"
+  },
+  "day6": {
+    "title": "Saturday",
+    "icon": "https://cdn2.iconfinder.com/data/icons/weather-and-forecast-free/32/Weather_Weather_Forecast_Sunrise_Sunset_Sun-512.png",
+    "temperature": "20 - 21℃"
+  },
+  "day7": {
+    "title": "Sunday",
+    "icon": "https://cdn2.iconfinder.com/data/icons/weather-and-forecast-free/32/Weather_Weather_Forecast_Sunny_Rain_Climate-512.png",
+    "temperature": "16 - 19℃"
+  }
+}

@@ -2,7 +2,14 @@
   text-align: center;
 }
 
-.App-logo {
+.weather {
+  display: inline-block;
+  border: 1px solid gray;
+  margin: 20px 5px;
+  padding: 5px;
+}
+
+/* .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
 }
@@ -29,4 +36,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
